@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "natureexpansion:block/pink_rose"
+  }
+}

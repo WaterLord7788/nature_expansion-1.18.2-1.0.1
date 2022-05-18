@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "vikingexpansion:block/sapphire_block",
-    "top": "vikingexpansion:block/sapphire_block",
-    "side": "vikingexpansion:block/sapphire_block"
-  }
-}

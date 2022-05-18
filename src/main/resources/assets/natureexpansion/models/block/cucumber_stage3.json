@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "natureexpansion:block/cucumber_stage3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "natureexpansion:block/redwood_log_top",
+    "side": "natureexpansion:block/redwood_log"
+  }
+}

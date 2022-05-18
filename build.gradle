@@ -19,8 +19,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 version = '0.0.1-1.18.2'
-group = 'com.waterlord7788.vikingexpansion' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'vikingexpansion'
+group = 'com.waterlord7788.natureexpansion' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'natureexpansion'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
@@ -172,12 +172,12 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "vikingexpansion",
-                "Specification-Vendor"    : "vikingexpansionsareus",
+                "Specification-Title"     : "natureexpansion",
+                "Specification-Vendor"    : "natureexpansionsareus",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
-                "Implementation-Vendor"   : "vikingexpansionsareus",
+                "Implementation-Vendor"   : "natureexpansionsareus",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }

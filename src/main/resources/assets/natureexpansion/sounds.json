@@ -1,0 +1,46 @@
+{
+  "dowsing_rod_found_ore": {
+    "subtitle": "sounds.natureexpansion.dowsing_rod_found_ore",
+    "sounds": [
+      "natureexpansion:dowsing_rod_found_ore"
+    ]
+  },
+  "sapphire_lamp_break": {
+    "subtitle": "natureexpansion.sapphire_lamp_break",
+    "sounds": [
+      "natureexpansion:sapphire_lamp_break"
+    ]
+  },
+  "sapphire_lamp_step": {
+    "subtitle": "natureexpansion.sapphire_lamp_step",
+    "sounds": [
+      "natureexpansion:sapphire_lamp_step"
+    ]
+  },
+  "sapphire_lamp_place": {
+    "subtitle": "natureexpansion.sapphire_lamp_place",
+    "sounds": [
+      "natureexpansion:sapphire_lamp_place"
+    ]
+  },
+  "sapphire_lamp_hit": {
+    "subtitle": "natureexpansion.sapphire_lamp_hit",
+    "sounds": [
+      "natureexpansion:sapphire_lamp_hit"
+    ]
+  },
+  "sapphire_lamp_fall": {
+    "subtitle": "natureexpansion.sapphire_lamp_fall",
+    "sounds": [
+      "natureexpansion:sapphire_lamp_fall"
+    ]
+  },
+  "borgar_alexander_nakarada": {
+    "sounds": [
+      {
+      "name": "natureexpansion:borgar_alexander_nakarada",
+      "stream": true
+      }
+    ]
+  }
+}

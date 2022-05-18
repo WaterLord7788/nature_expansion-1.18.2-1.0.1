@@ -15,26 +15,26 @@ license="MIT"
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="vikingexpansion" #mandatory
+modId="natureexpansion" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
 version="${file.jarVersion}" #mandatory
  # A display name for the mod
-displayName="Viking Expansion Mod" #mandatory
+displayName="Nature Expansion Mod" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="vikingexpansion.png" #optional
+logoFile="natureexpansion.png" #optional
 # A text field displayed in the mod UI
 credits="Thanks for this mod goes to WaterLord7788 aka Kristian on YouTube" #optional
 # A text field displayed in the mod UI
 authors="WaterLord7788 aka Kristian on YouTube" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-This awesome mod adds new ores, structures and creatures to your world.
+This awesome mod adds new berries, woods and creatures to your world.
 Find out what this mod adds and expore unexplored places around your world.
 Let the journey begin!
 
@@ -42,7 +42,7 @@ Stay safe and chao!
 WaterLord7788 aka Kristian
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.vikingexpansion]] #optional
+[[dependencies.natureexpansion]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -54,7 +54,7 @@ WaterLord7788 aka Kristian
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.vikingexpansion]]
+[[dependencies.natureexpansion]]
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version

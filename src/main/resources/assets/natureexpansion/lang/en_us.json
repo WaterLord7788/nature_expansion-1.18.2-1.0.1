@@ -1,0 +1,15 @@
+{
+  "item.natureexpansion.cucumber_seeds": "Cucumber Seeds",
+
+  "block.natureexpansion.pink_rose": "Pink Rose",
+  "block.natureexpansion.potted_pink_rose": "Potted Pink Rose",
+
+  "block.natureexpansion.redwood_log": "Redwood Log",
+  "block.natureexpansion.redwood_planks": "Redwood Planks",
+  "block.natureexpansion.redwood_wood": "Redwood Wood",
+  "block.natureexpansion.stripped_redwood_log": "Stripped Redwood Log",
+  "block.natureexpansion.stripped_redwood_wood": "Stripped Redwood Wood",
+  "block.natureexpansion.redwood_sapling": "Redwood Sapling",
+
+  "itemGroup.natureexpansion": "Nature Expansion"
+}

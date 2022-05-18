@@ -1,0 +1,2 @@
+
+If you want to replace air with structure_void - this command will do it : /fill x1 y2 z1 x2 y2 z2 minecraft:structure_void replace air
